@@ -1,3 +1,5 @@
+Works for Windows, Mac and Linux.
+
 The application was created using JAVA with Ant.
 Run and compile using "ant run compile" command.
 To run manually from the command prompt follow the commands below:
