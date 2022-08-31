@@ -1,4 +1,4 @@
-Works for Windows, Mac and Linux.
+File Browser using JAVA Swing. Works for Windows, Mac and Linux.
 
 The application was created using JAVA with Ant.
 Run and compile using "ant run compile" command.
